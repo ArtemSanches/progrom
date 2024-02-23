@@ -1,0 +1,4 @@
+C:\Users\Huawei\OneDrive\Рабочий стол\Введени в контроль версии\task3\obj\Debug\net8.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huawei\OneDrive\Рабочий стол\Введени в контроль версии\task3\obj\Debug\net8.0\task3.AssemblyInfoInputs.cache
+C:\Users\Huawei\OneDrive\Рабочий стол\Введени в контроль версии\task3\obj\Debug\net8.0\task3.AssemblyInfo.cs
+C:\Users\Huawei\OneDrive\Рабочий стол\Введени в контроль версии\task3\obj\Debug\net8.0\task3.csproj.CoreCompileInputs.cache

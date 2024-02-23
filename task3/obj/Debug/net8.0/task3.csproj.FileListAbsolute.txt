@@ -2,3 +2,13 @@ C:\Users\Huawei\OneDrive\Рабочий стол\Введени в контро�
 C:\Users\Huawei\OneDrive\Рабочий стол\Введени в контроль версии\task3\obj\Debug\net8.0\task3.AssemblyInfoInputs.cache
 C:\Users\Huawei\OneDrive\Рабочий стол\Введени в контроль версии\task3\obj\Debug\net8.0\task3.AssemblyInfo.cs
 C:\Users\Huawei\OneDrive\Рабочий стол\Введени в контроль версии\task3\obj\Debug\net8.0\task3.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\OneDrive\Рабочий стол\Введени в контроль версии\task3\bin\Debug\net8.0\task3.exe
+C:\Users\Huawei\OneDrive\Рабочий стол\Введени в контроль версии\task3\bin\Debug\net8.0\task3.deps.json
+C:\Users\Huawei\OneDrive\Рабочий стол\Введени в контроль версии\task3\bin\Debug\net8.0\task3.runtimeconfig.json
+C:\Users\Huawei\OneDrive\Рабочий стол\Введени в контроль версии\task3\bin\Debug\net8.0\task3.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\Введени в контроль версии\task3\bin\Debug\net8.0\task3.pdb
+C:\Users\Huawei\OneDrive\Рабочий стол\Введени в контроль версии\task3\obj\Debug\net8.0\task3.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\Введени в контроль версии\task3\obj\Debug\net8.0\refint\task3.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\Введени в контроль версии\task3\obj\Debug\net8.0\task3.pdb
+C:\Users\Huawei\OneDrive\Рабочий стол\Введени в контроль версии\task3\obj\Debug\net8.0\task3.genruntimeconfig.cache
+C:\Users\Huawei\OneDrive\Рабочий стол\Введени в контроль версии\task3\obj\Debug\net8.0\ref\task3.dll
